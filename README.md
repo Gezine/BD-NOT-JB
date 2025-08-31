@@ -2,7 +2,7 @@
 
 **Note : This is for dev only.**
 
-BD-NOT-JB is RemoteJarLoader that can be used on every PS4 and PS5 fw without sandbox escape.  
+BD-NOT-JB is RemoteJarLoader that can be used on every PS4 and PS5 fw without escaping the sandbox.  
 It supports on-screen logging and network logging.  
 
 ---
