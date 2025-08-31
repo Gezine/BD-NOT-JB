@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<disclib xmlns="urn:BDA:bdmv;disclib">
+  <di:discinfo xmlns:di="urn:BDA:bdmv;discinfo">
+    <di:title>
+      <di:name>BD-NOT-JB 1.0</di:name>
+      <di:numSets>1</di:numSets>
+      <di:setNumber>1</di:setNumber>
+    </di:title>
+    <di:language>eng</di:language>
+  </di:discinfo>
+</disclib>
