@@ -32,7 +32,7 @@ public class RemoteJarLoader implements Runnable {
     }
     
     private static void loadAndRunJar(Socket client) throws Exception {
-        String jarPath = "/OS/HDD/download0/mnt_ada/received.jar";
+        String jarPath = "/OS/HDD/download0/BD_BUDA/javatmp/received.jar";
         
         InputStream inputStream = client.getInputStream();
         
